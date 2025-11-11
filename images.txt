@@ -10,4 +10,5 @@
 # apache/gravitino-iceberg-rest:0.9.0-incubating
 # --platform=linux/arm64 xpzouying/xiaohongshu-mcp
 #--platform=linux/arm64 docker.io/arm64v8/ubuntu:18.04
---platform=linux/arm64 docker.io/arm64v8/debian:bullseye
+#--platform=linux/arm64 docker.io/arm64v8/debian:bullseye
+--platform=linux/arm64 arm64v8/nginx
